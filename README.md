@@ -6,9 +6,11 @@ This simple GUI relies on pyqtgraph (http://pyqtgraph.org/) to extract intensity
 Develop installation
 --------------------
 Using pip:
+
     $ pip install -e path_to_package
 
 Otherwise:
+
     $ python setup.py develop --user
 
 How to run
