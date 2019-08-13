@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: dataSlicer
+Version: 1
+Summary: Package for extraction and fitting of intensity profiles
+Home-page: UNKNOWN
+Author: Aurelien Barbotin
+Author-email: aurelien.barbotin@dtc.ox.ac.uk
+License: MIT
+Description: dataSlicer: simple fitting inside images
+        ========================================
+        
+        This simple GUI relies on pyqtgraph (http://pyqtgraph.org/) to extract intensity traces from pictures.
+        
+        
+        
+Platform: UNKNOWN

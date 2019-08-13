@@ -1,0 +1,8 @@
+README.md
+setup.py
+dataSlicer.egg-info/PKG-INFO
+dataSlicer.egg-info/SOURCES.txt
+dataSlicer.egg-info/dependency_links.txt
+dataSlicer.egg-info/not-zip-safe
+dataSlicer.egg-info/requires.txt
+dataSlicer.egg-info/top_level.txt
